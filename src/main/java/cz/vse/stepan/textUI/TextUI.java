@@ -1,4 +1,4 @@
-package cz.vse.stepan.model;
+package cz.vse.stepan.textUI;
 
 import cz.vse.stepan.model.IGame;
 
